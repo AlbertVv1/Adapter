@@ -1,6 +1,6 @@
 ﻿namespace Adapter.Interfaces
 {
-	internal interface IBubbleSortForInt<T>
+	internal interface IBubbleSort<T>
 	{
 		public void BubbleSort(T[] array);
 
